@@ -471,6 +471,8 @@ archives:
     - .arj
     - .bz
     - .bz2
+    - .cmix
+    - .csc
     - .db
     - .gz
     - .jar
